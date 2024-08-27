@@ -1,4 +1,4 @@
-# Elasticsearch CSV Uploader
+# Elasticsearch Scripts
 Elk scripts  to perform update, insert in Elk indcies
 
 This repository contains a Node.js script that uploads data from CSV files to an Elasticsearch cluster. The script is designed to handle large volumes of data efficiently by sending bulk requests and tracking upload progress.
